@@ -39,7 +39,7 @@ For instance a path /location/7712  a would return json like
 ## Sample Json Data
 The sample data is provided in a file.  Use any method you want to bring this into your application.
 
-    people.location.js
+    people.location.json
     [
         {
             "place": "1123",
@@ -55,7 +55,7 @@ The sample data is provided in a file.  Use any method you want to bring this in
         }
     ]
 
-    places.js
+    places.json
     [
         {
             "id": "1123",
@@ -71,7 +71,7 @@ The sample data is provided in a file.  Use any method you want to bring this in
         }
     ]
 
-    people.js
+    people.json
     [
         {
             "id": "1",
