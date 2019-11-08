@@ -54,7 +54,7 @@ For instance a path /location/7712  a would return json like
         }
     ]
 
-    places.js
+    places.json
     [
         {
             "id": "1123",
@@ -70,7 +70,7 @@ For instance a path /location/7712  a would return json like
         }
     ]
 
-    people.js
+    people.json
     [
         {
             "id": "1",
